@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "WebPage",
+  "name": "STAEDTLER | Linktree",
+  "url": "https://linktr.ee/staedtler",
+  "sameAs": [
+    "https://www.facebook.com/STAEDTLER/",
+    "https://twitter.com/staemars",
+    "https://instagram.com/staedtler",
+    "https://tiktok.com/@staedtler.mars",
+    "https://www.youtube.com/user/staedtlerpencils",
+    "https://www.linkedin.com/company/staedtler-mars-gmbh-co-kg",
+    "https://www.pinterest.de/Staedtler",
+    "mailto:online-marketing@staedtler.com"
+  ],
+  "description": "Head of ideas.",
+  "image": "_next/static/logo-assets/default-meta-image.png",
+  "identifier": "staedtler",
+  "alternateName": "@staedtler Linktree Profile",
+  "significantLink": "https://www.staedtler.com/intl/en/company/about-staedtler/sustainability-at-staedtler/",
+  "dateCreated": 1587452943000,
+  "dateModified": 1657279460000,
+  "isPartOf": "https://linktr.ee",
+  "thumbnailUrl": "_next/static/logo-assets/default-meta-image.png",
+  "genre": "",
+  "keywords": ""
+}

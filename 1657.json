@@ -1,0 +1,484 @@
+{
+  "props": {
+    "pageProps": {
+      "account": {
+        "id": 5329060,
+        "uuid": "b6a3f944-4009-11eb-85b8-0a26086d88df",
+        "username": "staedtler",
+        "tier": "pro",
+        "isActive": true,
+        "profilePictureUrl": "https://d15mvavv27jnvy.cloudfront.net//13a7b113edfa2b63bba8447786dbaab2.jpg",
+        "pageTitle": "STAEDTLER",
+        "googleAnalyticsId": null,
+        "facebookPixelId": null,
+        "tiktokPixelId": null,
+        "donationsActive": false,
+        "causeBanner": null,
+        "contentWarning": null,
+        "description": "Head of ideas.",
+        "isLogoVisible": false,
+        "socialLinksPosition": "BOTTOM",
+        "useFooterSignup": true,
+        "useSignupLink": false,
+        "createdAt": 1587452943000,
+        "updatedAt": 1657279460000,
+        "expandableLinkCaret": true,
+        "verticals": [],
+        "customAvatar": null,
+        "customAvatarAttributes": null,
+        "backgroundImageAttributes": null,
+        "showRepeatVisitorSignupCta": true,
+        "profileBadges": null,
+        "isShareButtonEnabled": true,
+        "isVenmoEnabled": true,
+        "isCookieBannerEnabled": true,
+        "isInitialsProfileEnabled": true,
+        "isWhatsappNotificationsEnabled": false,
+        "isShareLinksEnabled": false,
+        "isOnlyfansSEOEnabled": false,
+        "linkTypesForSEO": null,
+        "affiliateTokens": [],
+        "owner": { "id": 6148253, "isEmailVerified": true },
+        "pageMeta": null,
+        "integrations": [],
+        "links": [
+          {
+            "id": 234303882,
+            "type": "CLASSIC",
+            "title": "Sustainability at STAEDTLER",
+            "position": 0,
+            "url": "https://www.staedtler.com/intl/en/company/about-staedtler/sustainability-at-staedtler/",
+            "shouldRouteToProfile": false,
+            "modifiers": {
+              "animation": null,
+              "isForwarding": false,
+              "isForwardingActive": false,
+              "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/UVJH1qHBQGiYdnNgP2Nf_Screenshot (472).png",
+              "amazonAffiliate": null
+            },
+            "context": {},
+            "rules": {
+              "gate": {
+                "activeOrder": [],
+                "age": null,
+                "passcode": null,
+                "nft": null,
+                "payment": null
+              }
+            }
+          },
+          {
+            "id": 229836118,
+            "type": "CLASSIC",
+            "title": "Follow us on TIKTOK",
+            "position": 2,
+            "url": "https://www.tiktok.com/@staedtler.mars",
+            "shouldRouteToProfile": false,
+            "modifiers": {
+              "animation": "buzz",
+              "isForwarding": false,
+              "isForwardingActive": false,
+              "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/RLxmPbDGRNWWJWTGYTbu_TikTok_STAEDTLER_quadr.jpg",
+              "amazonAffiliate": null
+            },
+            "context": {},
+            "rules": {
+              "gate": {
+                "activeOrder": [],
+                "age": null,
+                "passcode": null,
+                "nft": null,
+                "payment": null
+              }
+            }
+          },
+          {
+            "id": 59722437,
+            "type": "CLASSIC",
+            "title": "DIY Tutorials",
+            "position": 5,
+            "url": "https://www.staedtler.com/intl/en/discover/",
+            "shouldRouteToProfile": false,
+            "modifiers": {
+              "animation": null,
+              "isForwarding": false,
+              "isForwardingActive": false,
+              "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/InNBVuTzSxREobaDVkJC_image.png",
+              "amazonAffiliate": null
+            },
+            "context": {},
+            "rules": {
+              "gate": {
+                "activeOrder": [],
+                "age": null,
+                "passcode": null,
+                "nft": null,
+                "payment": null
+              }
+            }
+          },
+          {
+            "id": 92266882,
+            "type": "CLASSIC",
+            "title": "Free Wallpapers",
+            "position": 9,
+            "url": "http://fb.staedtler.com/Wallpaper",
+            "shouldRouteToProfile": false,
+            "modifiers": {
+              "animation": null,
+              "isForwarding": false,
+              "isForwardingActive": false,
+              "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/K5UqMLarSjGzrDRJafkg_image.png",
+              "amazonAffiliate": null
+            },
+            "context": {},
+            "rules": {
+              "gate": {
+                "activeOrder": [],
+                "age": null,
+                "passcode": null,
+                "nft": null,
+                "payment": null
+              }
+            }
+          },
+          {
+            "id": 25252339,
+            "type": "CLASSIC",
+            "title": "Homepage",
+            "position": 16,
+            "url": "https://www.staedtler.com/intl/en/",
+            "shouldRouteToProfile": false,
+            "modifiers": {
+              "animation": null,
+              "isForwarding": false,
+              "isForwardingActive": false,
+              "thumbnailUrl": "https://assets.production.linktr.ee/19446f44d76ce44b31204e3a3e2e38ac494991b3/icons/tabler-icons/heart.svg",
+              "amazonAffiliate": null
+            },
+            "context": {},
+            "rules": {
+              "gate": {
+                "activeOrder": [],
+                "age": null,
+                "passcode": null,
+                "nft": null,
+                "payment": null
+              }
+            }
+          },
+          {
+            "id": 25252365,
+            "type": "CLASSIC",
+            "title": "Imprint",
+            "position": 17,
+            "url": "https://www.staedtler.com/intl/en/legal/imprint/",
+            "shouldRouteToProfile": false,
+            "modifiers": {
+              "animation": null,
+              "isForwarding": false,
+              "isForwardingActive": false,
+              "thumbnailUrl": "https://assets.production.linktr.ee/19446f44d76ce44b31204e3a3e2e38ac494991b3/icons/tabler-icons/license.svg",
+              "amazonAffiliate": null
+            },
+            "context": {},
+            "rules": {
+              "gate": {
+                "activeOrder": [],
+                "age": null,
+                "passcode": null,
+                "nft": null,
+                "payment": null
+              }
+            }
+          }
+        ],
+        "socialLinks": [
+          { "type": "FACEBOOK", "url": "https://www.facebook.com/STAEDTLER/", "position": 0 },
+          { "type": "TWITTER", "url": "https://twitter.com/staemars", "position": 0 },
+          { "type": "INSTAGRAM", "url": "https://instagram.com/staedtler", "position": 0 },
+          { "type": "TIKTOK", "url": "https://tiktok.com/@staedtler.mars", "position": 0 },
+          {
+            "type": "YOUTUBE",
+            "url": "https://www.youtube.com/user/staedtlerpencils",
+            "position": 0
+          },
+          {
+            "type": "LINKEDIN",
+            "url": "https://www.linkedin.com/company/staedtler-mars-gmbh-co-kg",
+            "position": 0
+          },
+          { "type": "PINTEREST", "url": "https://www.pinterest.de/Staedtler", "position": 0 },
+          {
+            "type": "EMAIL_ADDRESS",
+            "url": "mailto:online-marketing@staedtler.com",
+            "position": 0
+          }
+        ],
+        "theme": {
+          "key": "custom",
+          "luminance": "LIGHT",
+          "background": {
+            "color": "#ffffff",
+            "imageUrl": "https://d1fdloi71mui9q.cloudfront.net/mU6zY7QKRoyTw6QtCd0r_gIBg7Zx6QmrO83Qz",
+            "type": "IMAGE"
+          },
+          "buttonStyle": {
+            "type": "FROST",
+            "backgroundStyle": { "color": "#064291" },
+            "shadowStyle": { "color": "#000000" },
+            "textStyle": { "color": "#FFFFFF" }
+          },
+          "socialStyle": { "color": "#FFFFFF" },
+          "typeface": { "color": "#FFFFFF", "family": "inter regular" }
+        }
+      },
+      "theme": {
+        "key": "custom",
+        "luminance": "LIGHT",
+        "background": {
+          "color": "#ffffff",
+          "imageUrl": "https://d1fdloi71mui9q.cloudfront.net/mU6zY7QKRoyTw6QtCd0r_gIBg7Zx6QmrO83Qz",
+          "type": "IMAGE"
+        },
+        "buttonStyle": {
+          "type": "FROST",
+          "backgroundStyle": { "color": "#064291" },
+          "shadowStyle": { "color": "#000000" },
+          "textStyle": { "color": "#FFFFFF" }
+        },
+        "socialStyle": { "color": "#FFFFFF" },
+        "typeface": { "color": "#FFFFFF", "family": "inter regular" }
+      },
+      "isProfileVerified": true,
+      "hasConsentedToView": true,
+      "username": "staedtler",
+      "pageTitle": "STAEDTLER",
+      "description": "Head of ideas.",
+      "socialLinks": [
+        { "type": "FACEBOOK", "url": "https://www.facebook.com/STAEDTLER/", "position": 0 },
+        { "type": "TWITTER", "url": "https://twitter.com/staemars", "position": 0 },
+        { "type": "INSTAGRAM", "url": "https://instagram.com/staedtler", "position": 0 },
+        { "type": "TIKTOK", "url": "https://tiktok.com/@staedtler.mars", "position": 0 },
+        {
+          "type": "YOUTUBE",
+          "url": "https://www.youtube.com/user/staedtlerpencils",
+          "position": 0
+        },
+        {
+          "type": "LINKEDIN",
+          "url": "https://www.linkedin.com/company/staedtler-mars-gmbh-co-kg",
+          "position": 0
+        },
+        { "type": "PINTEREST", "url": "https://www.pinterest.de/Staedtler", "position": 0 },
+        {
+          "type": "EMAIL_ADDRESS",
+          "url": "mailto:online-marketing@staedtler.com",
+          "position": 0
+        }
+      ],
+      "integrations": [],
+      "seoSchemaClassifications": { "typeClassification": null },
+      "metaTitle": "STAEDTLER | Linktree",
+      "metaDescription": "Head of ideas.",
+      "profilePictureUrl": "https://d15mvavv27jnvy.cloudfront.net//13a7b113edfa2b63bba8447786dbaab2.jpg",
+      "links": [
+        {
+          "id": "234303882",
+          "title": "Sustainability at STAEDTLER",
+          "context": {},
+          "animation": null,
+          "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/UVJH1qHBQGiYdnNgP2Nf_Screenshot (472).png",
+          "url": "https://www.staedtler.com/intl/en/company/about-staedtler/sustainability-at-staedtler/",
+          "amazonAffiliate": null,
+          "type": "CLASSIC",
+          "rules": {
+            "gate": {
+              "activeOrder": [],
+              "age": null,
+              "passcode": null,
+              "nft": null,
+              "payment": null
+            }
+          },
+          "position": 0,
+          "locked": null,
+          "shouldRouteToProfile": false
+        },
+        {
+          "id": "229836118",
+          "title": "Follow us on TIKTOK",
+          "context": {},
+          "animation": "buzz",
+          "thumbnail": "im",
+          "url": "https://www.tiktok.com/@staedtler.mars",
+          "amazonAffiliate": null,
+          "type": "CLASSIC",
+          "rules": {
+            "gate": {
+              "activeOrder": [],
+              "age": null,
+              "passcode": null,
+              "nft": null,
+              "payment": null
+            }
+          },
+          "position": 2,
+          "locked": null,
+          "shouldRouteToProfile": false
+        },
+        {
+          "id": "59722437",
+          "title": "DIY Tutorials",
+          "context": {},
+          "animation": null,
+          "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/InNBVuTzSxREobaDVkJC_image.png",
+          "url": "https://www.staedtler.com/intl/en/discover/",
+          "amazonAffiliate": null,
+          "type": "CLASSIC",
+          "rules": {
+            "gate": {
+              "activeOrder": [],
+              "age": null,
+              "passcode": null,
+              "nft": null,
+              "payment": null
+            }
+          },
+          "position": 5,
+          "locked": null,
+          "shouldRouteToProfile": false
+        },
+        {
+          "id": "92266882",
+          "title": "Free Wallpapers",
+          "context": {},
+          "animation": null,
+          "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/K5UqMLarSjGzrDRJafkg_image.png",
+          "url": "http://fb.staedtler.com/Wallpaper",
+          "amazonAffiliate": null,
+          "type": "CLASSIC",
+          "rules": {
+            "gate": {
+              "activeOrder": [],
+              "age": null,
+              "passcode": null,
+              "nft": null,
+              "payment": null
+            }
+          },
+          "position": 9,
+          "locked": null,
+          "shouldRouteToProfile": false
+        },
+        {
+          "id": "25252339",
+          "title": "Homepage",
+          "context": {},
+          "animation": null,
+          "thumbnail": "https://assets.production.linktr.ee/19446f44d76ce44b31204e3a3e2e38ac494991b3/icons/tabler-icons/heart.svg",
+          "url": "https://www.staedtler.com/intl/en/",
+          "amazonAffiliate": null,
+          "type": "CLASSIC",
+          "rules": {
+            "gate": {
+              "activeOrder": [],
+              "age": null,
+              "passcode": null,
+              "nft": null,
+              "payment": null
+            }
+          },
+          "position": 16,
+          "locked": null,
+          "shouldRouteToProfile": false
+        },
+        {
+          "id": "25252365",
+          "title": "Imprint",
+          "context": {},
+          "animation": null,
+          "thumbnail": "https://assets.production.linktr.ee/19446f44d76ce44b31204e3a3e2e38ac494991b3/icons/tabler-icons/license.svg",
+          "url": "https://www.staedtler.com/intl/en/legal/imprint/",
+          "amazonAffiliate": null,
+          "type": "CLASSIC",
+          "rules": {
+            "gate": {
+              "activeOrder": [],
+              "age": null,
+              "passcode": null,
+              "nft": null,
+              "payment": null
+            }
+          },
+          "position": 17,
+          "locked": null,
+          "shouldRouteToProfile": false
+        }
+      ],
+      "leapLink": null,
+      "isOwner": false,
+      "isLogoVisible": false,
+      "mobileDetected": false,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+      "stage": "production",
+      "environment": {
+        "LINK_TYPES_ASSETS_ENDPOINT": "https://link-types-assets.production.linktr.ee",
+        "STRIPE_PAYMENTS_API_ENDPOINT": "https://stripe-payments.linktr.ee",
+        "STRIPE_PUBLISHABLE_KEY": "pk_live_51IdFBuL9SYJKPuFO2CTt5Wrpw46qcwd1ZjWC4MLOYi1aUXIfhfRbK7EkDJgMVQVaTcOceuPpCEnkv0g7J6TgkNdD00TD9bsb4o",
+        "PAYPAL_PAYMENTS_API_ENDPOINT": "https://paypal-payments.linktr.ee",
+        "PAYPAL_PAYMENTS_CLIENT_ID": "ATsU006_NqnC_Jk_W49YoQSnMh9kDXgMY_IVkUhJbutOkhQ7F8wlTWoJHyi2GteXaczfOGu22BSdWopq",
+        "SHOPIFY_INTEGRATIONS_API_ENDPOINT": "https://shopify-integrations.linktr.ee",
+        "META_IMAGE_URL": "_next/static/logo-assets/default-meta-image.png",
+        "RECAPTCHA_SITE_KEY": "6LdGYT4cAAAAANW9oE1Sa2AxBi8b9ZAbmvYBPnZm",
+        "RECAPTCHA_SITE_KEY_INVISIBLE": "6LcGlm0dAAAAAMfsVsJl3MZtjI-cKhBYzq5RPEo4",
+        "GRAPHQL_API_ENDPOINT": "https://graph.linktr.ee/graphql",
+        "PROFILES_API_HOST": "https://profiles-api.production.linktr.ee"
+      },
+      "contentGating": "none",
+      "videoStructuredData": [],
+      "hasSensitiveContent": false,
+      "auth0Config": {
+        "clientID": "rdPMLphw1ztUXo52bXtf3ah07kSUWguy",
+        "domain": "auth.linktr.ee",
+        "redirectUri": "https://linktr.ee/auth/callback",
+        "responseType": "token id_token",
+        "responseMode": "form_post",
+        "audience": "https://linktr.ee/api"
+      },
+      "followerNotificationsEnabled": false,
+      "followerCapabilities": { "isWhatsappEnabled": false }
+    },
+    "__N_SSP": true
+  },
+  "page": "/[profile]",
+  "query": { "profile": "staedtler" },
+  "buildId": "215f50f618582114707c88e6aa4714ed41ef4028",
+  "assetPrefix": "https://assets.production.linktr.ee/profiles",
+  "runtimeConfig": {
+    "INGRESS_API_ENDPOINT": "https://ingress.linktr.ee/uLZfGRmpj7",
+    "PAYMENTS_API_ENDPOINT": "https://payments.linktr.ee",
+    "ANALYTICS_SCRIPT_URL": "https://assets.production.linktr.ee/cep/cep.min.js",
+    "LINK_TYPES_ASSETS_ENDPOINT": "https://link-types-assets.production.linktr.ee",
+    "STAGE": "production",
+    "SERVICE": "profiles",
+    "WEB_VITALS": "true",
+    "DD_SAMPLE_RATE": "100",
+    "DD_CLIENT_TOKEN": "pub42f389bd36fc9203ee133e9277bf57f4",
+    "STRIPE_PAYMENTS_API_ENDPOINT": "https://stripe-payments.linktr.ee",
+    "STRIPE_PUBLISHABLE_KEY": "pk_live_51IdFBuL9SYJKPuFO2CTt5Wrpw46qcwd1ZjWC4MLOYi1aUXIfhfRbK7EkDJgMVQVaTcOceuPpCEnkv0g7J6TgkNdD00TD9bsb4o",
+    "PAYPAL_PAYMENTS_API_ENDPOINT": "https://paypal-payments.linktr.ee",
+    "PAYPAL_PAYMENTS_CLIENT_ID": "ATsU006_NqnC_Jk_W49YoQSnMh9kDXgMY_IVkUhJbutOkhQ7F8wlTWoJHyi2GteXaczfOGu22BSdWopq",
+    "SHOPIFY_INTEGRATIONS_API_ENDPOINT": "https://shopify-integrations.linktr.ee",
+    "RECAPTCHA_SITE_KEY": "6LdGYT4cAAAAANW9oE1Sa2AxBi8b9ZAbmvYBPnZm",
+    "RECAPTCHA_SITE_KEY_INVISIBLE": "6LcGlm0dAAAAAMfsVsJl3MZtjI-cKhBYzq5RPEo4",
+    "BASE_URL": "https://linktr.ee"
+  },
+  "isFallback": false,
+  "gssp": true,
+  "customServer": true,
+  "locale": "en",
+  "locales": ["en"],
+  "defaultLocale": "en",
+  "scriptLoader": []
+}
